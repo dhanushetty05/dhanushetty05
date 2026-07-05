@@ -1,87 +1,158 @@
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"  />
-</div>
+<h1 align="center">Hi 👋, I'm M G Dhanush</h1>
 
-###
+<h3 align="center">
+Full Stack Developer • DevOps & Cloud Enthusiast • AI Builder
+</h3>
 
-<h1 align="left">Hey 👋 I'm M G Dhanush</h1>
+<p align="center">
+Building scalable web applications, AI-powered systems, and modern cloud infrastructure.
+</p>
 
-###
+---
 
-<p align="left">A passionate Full Stack Developer & DevOps, Cloud Enthusiast from India</p>
+## 🚀 About Me
 
-###
+🎓 Final Year Information Science Engineering Student (CGPA: 8.6)
 
-<h2 align="left">About me</h2>
+💻 Passionate about
+- Full Stack Development (MERN)
+- DevOps & CI/CD
+- Cloud Computing (AWS)
+- AI-powered Applications
 
-###
+🌱 Currently Learning
+- Docker & Kubernetes
+- Jenkins
+- AWS
+- Terraform
+- Advanced Linux
+- Production DevOps
 
-<p align="left">✨ MERN Stack, DevOps, Cloud (AWS), and AI Projects<br>📚 I'm currently learning DevOps and Cloud Computing (AWS)<br>🎯 Scaling AI models & deploying production-ready systems<br>🎲 AI + DevOps based real-world projects</p>
+🎯 Goal
+> To become a Cloud & DevOps Engineer capable of building scalable, production-ready systems.
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🛠 Tech Stack
 
-###
+### Languages
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-###
+### Frontend
 
-<div align="left">
-</div>
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-###
+### Backend
 
-<div align="left">
-  <a href="www.linkedin.com/in/m-g-dhanush" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/dhanu_shetty_05/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-###
+### Database
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhanushetty05.dhanushetty05&"  />
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-###
+### DevOps & Cloud
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Autonomous CI/CD Healing Agent
+
+AI-powered multi-agent system that automatically detects, analyzes and heals CI/CD pipeline failures.
+
+**Tech**
+Python • FastAPI • Docker • React • LangChain • GitHub Actions
+
+---
+
+### 🔍 Smart Surveillance
+
+Real-time harmful tool detection using YOLOv8 and OpenCV with automated alerts.
+
+**Tech**
+Python • OpenCV • YOLOv8
+
+---
+
+### 🌍 Smart Tourist Safety Monitoring
+
+Real-time tourist tracking platform with emergency SOS and live location monitoring.
+
+**Tech**
+React • Node.js • Express • MongoDB • Google Maps API
+
+---
+
+## 🏆 Achievements
+
+🏅 RIFT 2026 Hackathon Participant (AI/ML & DevOps)
+
+🎯 Technical Event Coordinator — Aakriti 2026
+
+📜 AWS Cloud Practitioner Essentials
+
+📜 NPTEL Programming in Java
+
+📜 MongoDB University
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhanushetty05&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushetty05&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushetty05&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/m-g-dhanush">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/dhanushetty05">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:mgdhanush2005@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Building intelligent software that scales from code to cloud."</i>
+
+</p>
