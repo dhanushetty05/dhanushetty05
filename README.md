@@ -103,10 +103,7 @@
 
 <div align="center">
 
-### 📫 Let's Connect
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/m-g-dhanush) &nbsp;
-[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/dhanu_shetty_05/) &nbsp;
 
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=dhanushetty05.dhanushetty05" />
