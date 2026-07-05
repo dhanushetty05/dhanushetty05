@@ -55,22 +55,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-## 🔭 Featured Projects
-
-### 🤖 [Autonomous CI/CD Healing Agent](https://github.com/dhanushetty05)
-`Python` `FastAPI` `React.js` `TypeScript` `Docker` `LangChain` `GitHub Actions`
-- AI-powered multi-agent system for automated CI/CD pipeline failure detection and self-healing
-- Integrated LLMs and LangChain for automated testing, code repair, and validation
-- Built a React.js dashboard for real-time pipeline monitoring and performance analytics
-
-### 🎯 Smart Surveillance: Real-Time Harmful Tool Detection
-`Python` `OpenCV` `YOLOv8`
-- Real-time weapon and hazardous tool detection from live video streams with high accuracy
-- Automated alerting, image capture, and a real-time monitoring dashboard
-
----
 
 ## 📜 Certifications
 
