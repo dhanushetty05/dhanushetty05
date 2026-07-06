@@ -74,15 +74,21 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhanushetty05&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-
-  <img src="https://streak-stats.demolab.com?user=dhanushetty05&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushetty05&theme=tokyonight" height="165"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushetty05&layout=compact&theme=tokyonight" height="165"/>
 </div>
+
+---
+
+<div align="center">
+
 
 
 
