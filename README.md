@@ -6,6 +6,7 @@
 
 ### Information Science Engineering Student | MERN Stack Developer | AI & DevOps Enthusiast
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8A2BE2?style=for-the-badge\&logo=vercel\&logoColor=white)](https://m-g-dhanush.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-g-dhanush)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushetty05)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhanu_shetty_05/)
